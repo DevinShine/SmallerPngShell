@@ -1,0 +1,2 @@
+# SmallerPngShell
+将需要压缩的图片放到src文件夹下，然后在终端运行python start.py，然后就会将压缩的图片输出至out文件夹
